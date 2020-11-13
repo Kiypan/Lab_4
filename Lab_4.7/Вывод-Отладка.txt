@@ -1,0 +1,14 @@
+﻿"Lab_4.7.exe" (Win32). Загружено "C:\Users\Kiypan\source\repos\Lab_4.7\Debug\Lab_4.7.exe". Символы загружены.
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0xc44 завершился с кодом 0 (0x0).
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Lab_4.7.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x1ed4 завершился с кодом 0 (0x0).
+Поток 0x1024 завершился с кодом 0 (0x0).
+Программа "[17260] Lab_4.7.exe" завершилась с кодом 0 (0x0).
