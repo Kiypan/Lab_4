@@ -37,7 +37,7 @@ int main() {
 		S += sqrt(i * i) + P / i;
 		i++;
 	} while (i <= 25);
-	cout << P << endl;
+	cout << S << endl;
 	S = 1;
 	for (i = 5; i <= 25; i++)
 
@@ -52,7 +52,7 @@ int main() {
 		S += sqrt(i * i) + P / i;
 
 	}
-	cout << P << endl;
+	cout << S << endl;
 	S = 1;
 	for (i = 25; i >= 5; i--)
 
@@ -64,6 +64,6 @@ int main() {
 		}
 		S += sqrt(i * i) + P / i;
 	}
-	cout << P << endl;
+	cout << S << endl;
 	return 0;
 }
